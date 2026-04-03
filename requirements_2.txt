@@ -1,9 +1,0 @@
-streamlit
-yfinance
-FinMind
-pandas
-requests
-pytz
-tqdm
-ta
-streamlit-cookies-manager
